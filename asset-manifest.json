@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kullanici_giris_formu/static/css/main.0a06cc8c.css",
+    "main.js": "/Kullanici_giris_formu/static/js/main.d1288eb0.js",
+    "index.html": "/Kullanici_giris_formu/index.html",
+    "main.0a06cc8c.css.map": "/Kullanici_giris_formu/static/css/main.0a06cc8c.css.map",
+    "main.d1288eb0.js.map": "/Kullanici_giris_formu/static/js/main.d1288eb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a06cc8c.css",
+    "static/js/main.d1288eb0.js"
+  ]
+}
