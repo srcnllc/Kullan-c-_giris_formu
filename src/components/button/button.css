@@ -1,0 +1,32 @@
+.button{
+    width: max-content;
+    outline: none;
+    border: none;
+    padding: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    background: rgb(33, 140, 234);
+    border: 1px solid black;
+    letter-spacing: 0.1rem;
+}
+.button:hover{
+    letter-spacing: 0.25rem;
+    border: 1px solid blue;
+    color:  #fff;
+    background-color: rgb(55, 55, 55);
+    box-shadow:5px 5px 10px rgb(33, 140, 234);
+}
+.content{
+    width: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sifre{
+    text-decoration: none;
+    color: rgb(33, 140, 234);
+}
+.sifre:hover{
+    color:  #fff    ;
+    box-shadow:5px 5px 10px rgb(33, 140, 234);
+}
